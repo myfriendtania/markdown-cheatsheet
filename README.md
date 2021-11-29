@@ -6,6 +6,6 @@ BASH Commands
 | cd  | change dir |
 | mkdir | create directory |
 | .. | takes you to parent folder |
-| mv | renames and moves file or folder |
+| mv | renames or relocates files and/or folders |
 | ls | list directory items |
 | touch | creates files |
